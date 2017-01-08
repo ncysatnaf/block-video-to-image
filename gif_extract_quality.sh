@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# ./gif_extract_quality.sh input.mkv output.gif
+# ./gif_extract_quality.sh input.mkv ./example/gif_extract_quality/output.gif
 
 palette="/tmp/palette.png"
 
